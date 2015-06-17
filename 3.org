@@ -116,6 +116,7 @@ In a car, a circuit is needed to ensure that the airbags only deploy when there 
 - Be creative and design your own Bell Crank linkage
 [[./img/Bell.jpg]]
 [[./img/bellcrank.gif]]
+
 ** Teadle linkages
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: build
@@ -126,6 +127,7 @@ In a car, a circuit is needed to ensure that the airbags only deploy when there 
 [[./img/Treadle.jpg]]
 [[./img/treadle.gif]]
 
+
 ** Gearing
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: build
@@ -134,7 +136,8 @@ In a car, a circuit is needed to ensure that the airbags only deploy when there 
 - Discuss how the gear system changes the direction of each gear in the system.
 - Calculate the ratios of each gear in the system.
 [[./img/Gear.jpg]]
-[[./img/Gear.gif]] 
+[[./img/gears.gif]]
+
 - Be creative and design your own gear system.
 - Now calculate out the gear ratios of each gear.
 
