@@ -7,7 +7,7 @@
 #+END_COMMENT
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil 
 
-#+TITLE: The Delport Flyer
+#+TITLE: 
 #+AUTHOR: Clinton Delport
 #+OPTIONS: toc:nil f:nil author:nil num:nil creator:nil timestamp:nil 
 
@@ -17,26 +17,18 @@
 </div>
 <center>
 <br>
-<img src=img/flyer.png width=50%>
+<img src=img/inspiration.jpg width=50%>
 </center>
 #+END_HTML
-* [[file:1.html][Lesson 01 - Electric Vehicles]]
+* [[file:1.html][Project 1 - Acrylic Clock]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
-* [[file:2.html][Lesson 02 - Pulleys ]]
+* [[file:2.html][Project 2 - Marble Run ]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
-* [[file:3.html][Lesson 03 - DC Motor theory]]
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: activity
-:END:
-* [[./4.html][Lesson 04 - The build]]
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: activity
-:END:
-* [[file:5.html][Lesson 05 - Testing and Evaluation]]
+* [[file:3.html][Project 3 - Wackano Extension]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:

@@ -186,7 +186,7 @@ for the JavaScript code in this tag.
 </ul>
 <p>
 <img src="./img/Bell.jpg" alt="Bell.jpg" />
-<img src="./img/bellcrank1.gif" alt="bellcrank1.gif" />
+<img src="./img/bellcrank.gif" alt="bellcrank.gif" />
 </p>
 </div>
 </div>
@@ -202,11 +202,10 @@ for the JavaScript code in this tag.
 <li>Be creative and design your own Treadle linkage 
 </li>
 </ul>
-
-<div class="figure">
-<p><img src="./img/Treadle.jpg" alt="Treadle.jpg" />
+<p>
+<img src="./img/Treadle.jpg" alt="Treadle.jpg" />
+<img src="./img/treadle.gif" alt="treadle.gif" />
 </p>
-</div>
 </div>
 </div>
 
@@ -222,11 +221,10 @@ for the JavaScript code in this tag.
 <li>Calculate the ratios of each gear in the system.
 </li>
 </ul>
-
-<div class="figure">
-<p><img src="./img/Gear.jpg" alt="Gear.jpg" />
+<p>
+<img src="./img/Gear.jpg" alt="Gear.jpg" />
+<img src="./img/gears.gif" alt="gears.gif" />
 </p>
-</div>
 
 <ul class="org-ul">
 <li>Be creative and design your own gear system.
